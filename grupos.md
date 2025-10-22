@@ -13,4 +13,5 @@ ID | Nome do Projeto | Aluno 1 | Aluno 2 | Aluno 3
 9 | EstanteAPI | João Pinheiro | Gabriel Riccetto | Vittor Dallacqua 
 10 | Carros | Daniel | Emiliano | Vinícius Leal
 11 | Lambda_no_C# | Renan Kusdra | João Tavares | Eduardo Moraes
-12 | Pantanal Fm | Lanna dos Anjos | Luisa Koerich | Bruna Chapelin
+12 | Pantanal FM | Lanna dos Anjos | Luisa Koerich | Bruna Chapelin
+13 | LeetCode | João Cesar de Pádua | João Gabriel Mota | Vitor Campos
